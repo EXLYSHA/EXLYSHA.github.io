@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "EXLYSHA"
-description              : "This is the homepage for EXLYSHA, just for testing. "
+title                    : "ZiXuan Li"
+description              : "Undergraduate student majoring in CS & AI."
 repository               : "EXLYSHA/EXLYSHA.github.io"
 google_scholar_stats_use_cdn : true
 
