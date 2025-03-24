@@ -37,3 +37,7 @@ My research interests include LLM, recommender systems, knowledge graphs, etc.
 
 # 💯 Contest Experiences
 - *2021.09*, China Undergraduate Mathematical Contest in Modeling (CUMCM) , Awarded Provincial Second Prize.
+
+# 🏕 Extracurricular Activities
+- *2024.07*, Member, Microsoft Artificial Intelligence Training Summer Camp.
+- *2024.09 - present*, Member, Baseball Club & Baseball Team at Renmin University of China.
